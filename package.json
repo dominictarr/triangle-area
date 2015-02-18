@@ -1,12 +1,12 @@
 {
   "name": "triangle-area",
   "description": "calculate area of triangle from 3 sides using Heron's formula",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/dominictarr/triangle-area",
   "repository": {
     "type": "git",
     "url": "git://github.com/dominictarr/triangle-area.git"
   },
   "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://dominictarr.com)",
-  "license": "MIT"  
+  "license": "MIT"
 }
